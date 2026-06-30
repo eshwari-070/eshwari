@@ -14,6 +14,7 @@ AI & ML Graduate | Java Full Stack Developer | Android Developer (Kotlin) | Pass
 - 🤖 Interested in AI, Machine Learning, and Software Development
 - 🌱 Currently improving my skills in:
   - Java
+  - Python
   - Spring Boot
   - SQL
   - React
