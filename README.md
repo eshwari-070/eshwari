@@ -20,7 +20,7 @@ Android Developer 🚀
 
 💻 Passionate about building software that solves real-world problems.
 
-🌱 Currently learning **Java Full Stack Development**, **Spring Boot**, **React**, **SQL**, and **Data Structures & Algorithms**.
+🌱 Currently learning **Full Stack Development**, **Spring Boot**, **React**, **SQL**, and **Data Structures & Algorithms**.
 
 📱 Interested in **Android Development** using **Kotlin** and **Jetpack Compose**.
 
@@ -65,7 +65,7 @@ Android Developer 🚀
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+![Android Studio](https://img.shields.io/badge/androidJ-000000?style=for-the-badge&logo=androidstudio)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google)
 
